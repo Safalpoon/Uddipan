@@ -254,6 +254,13 @@
         padding-right: calc(((100% - 1320px) / 2) + .75rem);
     }
 }
+@media (min-width: 300px)
+{
+    .partner-img img{
+        height: 50px;
+        width: 50px;
+    }
+}
 
 
 /*** Feature ***/
